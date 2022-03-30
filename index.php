@@ -266,14 +266,12 @@ $(function () {
         <div class="location_info">
             <ul>
                 <li class="col-md-3 col-xs-12 col-sm-6"><i class="fa fa-lg fa-thumb-tack" aria-hidden="true"></i><br /><?php echo get_text($config['cf_1']); ?></li>
-                <li class="col-md-3 col-xs-12 col-sm-6"><i class="fa fa-lg fa-phone" aria-hidden="true"></i><br />+<?php echo get_text($config['cf_2']); ?></li>
                 <li class="col-md-3 col-xs-12 col-sm-6"><i class="fa fa-lg fa-envelope" aria-hidden="true"></i><br /><?php echo get_text($config['cf_admin_email']); ?></li>
-                <li class="col-md-3 col-xs-12 col-sm-6"><i class="fa fa-lg fa-home" aria-hidden="true"></i><br /><?php echo get_text($config['cf_3']); ?></li>
             </ul>
         </div>
     </div>
     <div id="map" style="width:100%;height:400px;overflow:hidden;">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1581.1226347718832!2d126.9757597!3d37.5728418!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2eb3e16f081%3A0x60277c9a54a3d4d!2z7IS47KKF64yA7JmVIOuPmeyDgQ!5e0!3m2!1sko!2skr!4v1508474705358" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3161.0998097054353!2d126.8633869149926!3d37.59980992998014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99812f435649%3A0xed92f2e25c1b4456!2z7ZWc6rWt7ZWt6rO164yA7ZWZ6rWQIO2VreqzteyasOyjvOuwleusvOq0gA!5e0!3m2!1sko!2skr!4v1648600481227!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section>
 
