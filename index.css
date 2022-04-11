@@ -1,0 +1,17 @@
+.main{
+    position: relative;
+    background-color: aliceblue;
+    height: 100px;
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+.main p{
+    background-color:floralwhite;
+}
+
+.link{
+    background-color: beige;
+    margin-top: 40px;
+}
